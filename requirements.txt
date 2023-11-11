@@ -1,0 +1,6 @@
+pandas
+matplotlib
+pytrends
+statsmodels
+ruptures
+numpy
